@@ -1,5 +1,4 @@
 package co.com.automation.task;
-
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Clear;
@@ -8,7 +7,6 @@ import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 import net.serenitybdd.screenplay.questions.Visibility;
 import net.serenitybdd.screenplay.waits.WaitUntil;
-
 import static co.com.automation.ui.UserInterfacesClass.*;
 import static co.com.automation.utils.ConstantsClass.LOGGER;
 import static co.com.automation.utils.ConstantsClass.NUMBER;

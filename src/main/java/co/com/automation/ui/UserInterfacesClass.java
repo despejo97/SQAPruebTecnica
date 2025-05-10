@@ -2,7 +2,6 @@ package co.com.automation.ui;
 
 import net.serenitybdd.screenplay.targets.Target;
 
-import java.awt.font.TextAttribute;
 
 public class UserInterfacesClass {
     private UserInterfacesClass(){

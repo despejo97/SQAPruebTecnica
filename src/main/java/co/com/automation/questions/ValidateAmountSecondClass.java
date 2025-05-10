@@ -2,9 +2,6 @@ package co.com.automation.questions;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
-import net.serenitybdd.screenplay.actions.Scroll;
-
-import static co.com.automation.ui.UserInterfacesClass.LBLAMOUNT;
 import static co.com.automation.ui.UserInterfacesClass.LBLAMOUNTSECONDPRODUCT;
 
 public class ValidateAmountSecondClass implements Question<Boolean> {

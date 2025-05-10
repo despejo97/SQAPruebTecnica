@@ -3,10 +3,7 @@ package co.com.automation.questions;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.actions.Scroll;
-import net.serenitybdd.screenplay.questions.Visibility;
-
 import static co.com.automation.ui.UserInterfacesClass.LBLAMOUNT;
-import static co.com.automation.utils.ConstantsClass.LOGGER;
 
 public class ValidateAmountClass implements Question<Boolean> {
     @Override
